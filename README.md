@@ -12,7 +12,7 @@ Available Commands:
     and sends it as a message
   - If left blank, it will send the profile picture of the sender of the message
 
-!GetMovie <genre> - 
+!GetMovie <genre> 
   - If given a valid genre, will output the name of one of the top 50 movies of
     that genre on IMDB
   - If left blank, it will send the name of one of the top 50 movies across all genres
